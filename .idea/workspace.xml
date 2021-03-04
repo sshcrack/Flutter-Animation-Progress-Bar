@@ -13,11 +13,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3d4bd43-5f31-4ca2-abf3-00bd6a86b493" name="Default Changelist" comment="Add more code">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/flutter_animation_progress_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_animation_progress_bar.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,33 +119,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add more code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597902067379">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state x="322" y="168" key="SettingsEditor" timestamp="1614864324072">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.813@0.23.1440.813" timestamp="1597902067379" />
-    <state x="457" y="225" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1597902042876">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state x="457" y="225" key="#com.intellij.ide.util.TreeFileChooserDialog/0.23.1440.813@0.23.1440.813" timestamp="1597902042876" />
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1597934252929">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1597934252929" />
-    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1597934252929">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1597934252929" />
-    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1597934252928">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1597934252928" />
-    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1597934252929">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1597934252929" />
-    <state x="412" y="58" width="615" height="735" key="find.popup" timestamp="1603266539198">
-      <screen x="0" y="25" width="1440" height="802" />
-    </state>
-    <state x="412" y="58" width="615" height="735" key="find.popup/0.25.1440.802@0.25.1440.802" timestamp="1603266539198" />
+    <state x="322" y="168" key="SettingsEditor/-1366.-139.1366.728/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614864324072" />
   </component>
 </project>
